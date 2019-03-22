@@ -1,6 +1,18 @@
 ---
 layout: page
-title: About this website
+title: About me
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+## In brief
+Angela Tam, PhD
+Post doctoral research fellow at National University of Singapore
+
+Research interests:
+* neuroimaging
+* biomarkers
+* machine learning
+* Alzheimer's disease
+* psychiatric disorders
+
+## Contact details
+Email: eleange [at] nus.edu.sg
