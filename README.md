@@ -1,10 +1,9 @@
-## About me
+# Starter kit for [Alembic](https://alembic.darn.es/)
 
-Dr. Angela Tam
+This is a very simple starting point if you wish to use Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-theme) or as a [GitHub Pages remote theme](https://github.com/daviddarnes/alembic-kit/tree/remote-theme) (see `remote-theme` branch).
 
-Post doctoral research fellow at National University of Singapore
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
 
-Email: eleange [at] nus.edu.sg
+or
 
-## Research interests
-* neuroimaging, biomarkers, machine learning, Alzheimer's disease, psychiatric disorders
+**[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
