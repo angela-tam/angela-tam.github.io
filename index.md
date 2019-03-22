@@ -1,7 +1,7 @@
 ---
 title: About me
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/img/brain_lamp.jpg"
 feature_text: |
   ## Angela Tam, PhD
 ---
