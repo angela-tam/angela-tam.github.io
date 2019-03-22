@@ -1,1 +1,1 @@
-gem "alembic-jekyll-theme"
+gem "jekyll-remote-theme"
