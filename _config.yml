@@ -19,11 +19,34 @@ plugins:
 - jemoji
 - jekyll-remote-theme
 
+# Gem settings
+sass:
+  style: compressed
+  sass_dir: _sass
+
+paginate: 8 # jekyll-paginate > items per page
+paginate_path: "/blog/page:num/" # jekyll-paginate > blog page
+jekyll-mentions: https://twitter.com # base url for jekyll mentions
+
+compress_html:
+  clippings: all
+  
+twitter:
+  username: angelatamtweets # jekyll-seo-tag > Owners twitter username
+
+author: Angela Tam # jekyll-seo-tag > default author
+social: # jekyll-seo-tag > social overrides
+  name: Angela Tam # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://twitter.com/angelatamtweets
+    - https://www.linkedin.com/in/angela-tam-2054813b/
+    - https://github.com/angela-tam
+
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
 title: 'Angela Tam'
-description: 'This is my new website'
+description: ''
 permalink: pretty
 #logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
@@ -39,19 +62,19 @@ navigation_header:
 
 # Footer nav
 # navigation_footer:
-#  Back to top: "#top"
+#   Back to top: "#top"
 #site credits
 navigation_footer:
   Adopted Alembic Theme: https://alembic.darn.es/
 
-# Collections
-collections:
-  posts:
-    title: Posts
-    output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+# # Collections
+# collections:
+#   posts:
+#     title: Posts
+#     output: true
+#     description: "My thoughts and ideas"
+#     feature_text: |
+#       Welcome to my blog
+#     feature_image: "https://picsum.photos/2560/600?image=866"
     
 
