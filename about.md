@@ -4,10 +4,7 @@ feature_image: "/assets/img/brain_lamp.jpg"
 title: About me
 ---
 
-<img align="center" src="/assets/img/angela_tam.jpg"> 
-
-I'm currently a post doctoral research fellow at National University of Singapore. I completed my PhD in Neuroscience at McGill University.
-
+<img src="/assets/img/angela_tam.jpg" class="align-left" alt=""> I'm currently a post doctoral research fellow at National University of Singapore. I completed my PhD in Neuroscience at McGill University.<br/>
 Research interests: neuroimaging, biomarkers, machine learning, Alzheimer's disease, psychiatric disorders
 
 You can see my cv and list of selected publications [here](https://github.com/angela-tam/cv/blob/master/cv_angela_tam.pdf).<br/>
