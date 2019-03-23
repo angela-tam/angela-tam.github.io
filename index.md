@@ -1,6 +1,6 @@
 ---
 title: Hi! I'm Angela
-layout: home
+layout: page
 feature_image: "/assets/img/brain_lamp.jpg"
 feature_text: |
   
