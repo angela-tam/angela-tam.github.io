@@ -63,9 +63,16 @@ navigation_header:
 # Footer nav
 # navigation_footer:
 #   Back to top: "#top"
-#site credits
+
+# Site credits
 navigation_footer:
   Adopted Alembic Theme: https://alembic.darn.es/
+
+contact:
+  email:      angela.tam08@gmail.com
+  github:     https://github.com/angela-tam
+  linkedin:   https://www.linkedin.com/in/angela-tam-2054813b/
+  twitter:    https://twitter.com/angelatamtweets
 
 # # Collections
 # collections:
