@@ -35,11 +35,14 @@ paginate_path: blog/page:num
 navigation_header:
   Home: /
   About: /about/
-  Blog: /blog/
+  #Blog: /blog/
 
 # Footer nav
+# navigation_footer:
+#  Back to top: "#top"
+#site credits
 navigation_footer:
-  Back to top: "#top"
+  Adopted Alembic Theme: https://alembic.darn.es/
 
 # Collections
 collections:
@@ -50,3 +53,5 @@ collections:
     feature_text: |
       Welcome to my blog
     feature_image: "https://picsum.photos/2560/600?image=866"
+    
+
