@@ -1,6 +1,6 @@
 # Set theme
-#remote_theme: daviddarnes/alembic
-remote_theme: "mmistakes/minimal-mistakes@4.15.2"
+remote_theme: daviddarnes/alembic
+#remote_theme: "mmistakes/minimal-mistakes@4.15.2"
 
 # File excludes
 exclude:
@@ -68,8 +68,8 @@ navigation_header:
 
 # Site credits
 navigation_footer:
-#   Adopted Alembic Theme: https://alembic.darn.es/
-  Minimal Mistakes Theme: https://mmistakes.github.io
+   Adopted Alembic Theme: https://alembic.darn.es/
+#   Minimal Mistakes Theme: https://mmistakes.github.io
 
 contact:
   email:      angela.tam08@gmail.com
