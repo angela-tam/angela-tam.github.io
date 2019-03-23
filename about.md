@@ -4,12 +4,7 @@ feature_image: "/assets/img/brain_lamp.jpg"
 title: About me
 ---
 
-<img align="left" src="/assets/img/angela_tam.jpg"> 
-
-## In brief
-Angela Tam, PhD
-
-I'm currently a post doctoral research fellow at National University of Singapore. I completed my PhD in Neuroscience at McGill University.
+<img align="left" src="/assets/img/angela_tam.jpg"> I'm currently a post doctoral research fellow at National University of Singapore. I completed my PhD in Neuroscience at McGill University.
 
 Research interests: neuroimaging, biomarkers, machine learning, Alzheimer's disease, psychiatric disorders
 
@@ -17,5 +12,6 @@ You can see my cv and list of selected publications [here](https://github.com/an
 For a more exhaustive list of publications, check out my [Google Scholar](https://scholar.google.ca/citations?user=XExd2eQAAAAJ&hl=en)
 
 ## Contact details
+Angela Tam, PhD
 Email: eleange [at] nus.edu.sg<br/>
 Twitter: [angelatamtweets](https://twitter.com/angelatamtweets/)
