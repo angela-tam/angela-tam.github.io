@@ -4,7 +4,7 @@ feature_image: "/assets/img/brain_lamp.jpg"
 title: About me
 ---
 
-<img align="left" src="/assets/img/angela_tam.jpg" height="200"> 
+<img align="left" src="/assets/img/angela_tam.jpg" height="100"> 
 
 ## In brief
 Angela Tam, PhD
