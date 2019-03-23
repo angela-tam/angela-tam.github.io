@@ -1,7 +1,7 @@
 ---
 title: Hi! I'm Angela
 layout: page
-feature_image: "/assets/img/brain_lamp.jpg"
+feature_image: "/assets/img/home_cover.jpg"
 feature_text: |
   
 ---
