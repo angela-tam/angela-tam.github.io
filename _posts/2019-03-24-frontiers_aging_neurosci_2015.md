@@ -3,7 +3,6 @@ title: Common effects of amnestic mild cognitive impairment on resting-state con
 category: general
 feature_text: |
 
-image: "/assets/img/home_cover.jpg"
 tags: fMRI, biomarkers, Alzheimer's disease
 ---
 
