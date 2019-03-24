@@ -51,6 +51,7 @@ title: 'Angela Tam'
 description: ''
 permalink: pretty
 logo: "/assets/img/logo.png"
+avatarurl: "/assets/img/avatar.png"
 
 # Pagination
 paginate: 5
