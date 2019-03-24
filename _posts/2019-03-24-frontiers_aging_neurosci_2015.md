@@ -1,6 +1,6 @@
 ---
 title: Common effects of amnestic mild cognitive impairment on resting-state connectivity across four independent studies
-category: fMRI, biomarkers, Alzheimer's disease
+category: Publications
 feature_text: |
 
 feature_image: "https://www.frontiersin.org/files/Articles/166607/fnagi-07-00242-HTML/image_m/fnagi-07-00242-g004.jpg"
