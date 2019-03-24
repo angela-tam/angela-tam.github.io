@@ -1,6 +1,6 @@
 ---
 layout: page
-feature_image: "/assets/img/cover.jpg"
+feature_image: "/assets/img/about_cover.jpg"
 title: About me
 ---
 
