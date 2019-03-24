@@ -78,14 +78,14 @@ contact:
   linkedin:   https://www.linkedin.com/in/angela-tam-2054813b/
   twitter:    https://twitter.com/angelatamtweets
 
-# # Collections
-# collections:
-#   posts:
-#     title: Posts
-#     output: true
-#     description: "My thoughts and ideas"
+# Collections
+collections:
+  posts:
+    title: Projects
+    output: true
+    description: "Projects"
 #     feature_text: |
 #       Welcome to my blog
-#     feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "/assets/img/home_cover.jpg"
     
 
