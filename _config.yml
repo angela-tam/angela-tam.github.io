@@ -83,7 +83,7 @@ collections:
   posts:
     title: Projects
     output: true
-    description: "Projects"
+    description: "Here are some of my completed and ongoing projects"
 #     feature_text: |
 #       Welcome to my blog
     feature_image: "/assets/img/home_cover.jpg"
