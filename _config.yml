@@ -45,12 +45,12 @@ social: # jekyll-seo-tag > social overrides
     - https://github.com/angela-tam
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'angela-tam.github.io'
 baseurl: ''
 title: 'Angela Tam'
 description: ''
 permalink: pretty
-#logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "/assets/img/logo.png"
 
 # Pagination
 paginate: 5
