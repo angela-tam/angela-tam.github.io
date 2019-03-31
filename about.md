@@ -11,6 +11,7 @@ For a more exhaustive list of publications, check out my [Google Scholar](https:
 
 ## Contact details
 Angela Tam, PhD<br/>
-Email: eleange [at] nus.edu.sg<br/>
-[{% include icon.html id="twitter" title="twitter" %}](https://twitter.com/angelatamtweets/):[@angelatamtweets](https://twitter.com/angelatamtweets/)<br/>
-[LinkedIn](https://www.linkedin.com/in/angela-tam-2054813b/) | [ResearchGate](https://www.researchgate.net/profile/Angela_Tam3)
+{% include icon.html id="email" title="email" %} eleange [at] nus.edu.sg<br/>
+[{% include icon.html id="twitter" title="twitter" %}](https://twitter.com/angelatamtweets/) [@angelatamtweets](https://twitter.com/angelatamtweets/)<br/>
+[{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/angela-tam-2054813b/) [{% include icon.html id="github" title="github" %}](https://github.com/angela-tam)<br/>
+[ResearchGate](https://www.researchgate.net/profile/Angela_Tam3)
