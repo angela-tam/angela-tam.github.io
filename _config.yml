@@ -88,4 +88,12 @@ collections:
 #       Welcome to my blog
     feature_image: "/assets/img/home_cover.jpg"
     
+  photos:
+    output: true
 
+defaults:
+  - scope:
+      path: ""
+        type: photos
+    values:
+      layout: photo
