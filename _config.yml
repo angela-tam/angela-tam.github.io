@@ -89,7 +89,9 @@ collections:
     feature_image: "/assets/img/home_cover.jpg"
     
   photos:
+    title: Photos
     output: true
+    description: "Here are some of my photographs"
 
 # defaults:
 #   - scope:
