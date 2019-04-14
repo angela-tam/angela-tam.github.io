@@ -62,6 +62,7 @@ navigation_header:
   Home: /
   About: /about/
   Projects: /blog/
+  Photos: /photos/
 
 # Footer nav
 # navigation_footer:
