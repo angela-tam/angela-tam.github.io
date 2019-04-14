@@ -3,6 +3,8 @@ layout: default
 collectionpage: photos
 title: Photographs
 ---
+{% include site-footer.html %}
+
 {% assign sorted_gallery = site.photos | sort: 'weight' %}
 <ul class="photo-gallery">
   {% for image in sorted_gallery %}
@@ -13,3 +15,5 @@ title: Photographs
     </li>
   {% endfor %}
 </ul>
+
+{% include site-footer.html %}
