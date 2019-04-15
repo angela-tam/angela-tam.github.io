@@ -6,10 +6,9 @@ title: Photographs
 {% include site-header.html %}
 
 {% assign sorted_gallery = site.photos | sort: 'weight' %}
-<ul class="photo-gallery">
+<ul class="photo-gallery" display:inline-block>
   {% for image in sorted_gallery %}
     <li>
-      {display:inline-block}
       <a href="{{ image.link }}">
         <img src="{{ image.image_path }}" alt="{{ image.title }}">
       </a>
