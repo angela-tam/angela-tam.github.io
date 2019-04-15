@@ -6,15 +6,17 @@ image: "/assets/img/home_cover.jpg"
 ---
 {% include site-header.html %}
 
-{% assign sorted_gallery = site.photos | sort: 'weight' %}
-<ul class="photo-gallery">
-  {% for image in sorted_gallery %}
-    <li style="inline-block">
-      <a href="{{ image.link }}">
-        <img src="{{ image.image_path }}" alt="{{ image.title }}">
-      </a>
-    </li>
-  {% endfor %}
-</ul>
+<main class="main container">
+  {% assign sorted_gallery = site.photos | sort: 'weight' %}
+  <ul class="photo-gallery">
+    {% for image in sorted_gallery %}
+      <li style="inline-block">
+        <a href="{{ image.link }}">
+          <img src="{{ image.image_path }}" alt="{{ image.title }}">
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</main>
 
 {% include site-footer.html %}
