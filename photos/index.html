@@ -1,11 +1,7 @@
 ---
 layout: default
+collectionpage: photos
 title: Photographs
-photos:
-  - image_path: /assets/photos/horsedoctor_20171111.jpg
-    caption: Horse Doctor
-  - image_path: /assets/photos/bog_20180422.jpg
-    caption: The Bog in Montreal, Canada
 ---
 {% include site-header.html %}
 
@@ -13,9 +9,11 @@ photos:
 <ul class="photo-gallery">
   {% for image in sorted_gallery %}
     <li>
-        <img src="{{ image.image_path }}" alt="{{ image.caption }}">
+      <a href="{{ image.link }}">
+        <img src="{{ image.image_path }}" alt="{{ image.title }}">
+      </a>
     </li>
   {% endfor %}
 </ul>
-		
+
 {% include site-footer.html %}
