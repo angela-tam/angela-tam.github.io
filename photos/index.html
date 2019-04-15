@@ -1,12 +1,13 @@
 ---
+layout: default
 title: Photographs
 photos:
   - image: /assets/photos/horsedoctor_20171111.jpg
     caption: Horse Doctor
   - image: /assets/photos/bog_20180422.jpg
     caption: The Bog in Montreal, Canada
-
 ---
+{% include site-header.html %}
 
 <ul class="gallery">
 	{% for photo in page.photos %}
@@ -47,3 +48,5 @@ photos:
     document.body.appendChild(script);
   }
 </script>
+		
+{% include site-footer.html %}
