@@ -89,14 +89,14 @@ collections:
 #       Welcome to my blog
     feature_image: "/assets/img/home_cover.jpg"
     
-  photos:
-    title: Photos
-    output: true
-    description: "Here are some of my photographs"
+#   photos:
+#     title: Photos
+#     output: true
+#     description: "Here are some of my photographs"
 
-# defaults:
-#   - scope:
-#       path: ""
-#         type: photos
-#     values:
-#       layout: photo
+defaults:
+  -
+    scope:
+      path: "/photos/index.html"
+    values:
+      text_width: false
