@@ -9,6 +9,7 @@ title: Photographs
 <ul class="photo-gallery">
   {% for image in sorted_gallery %}
     <li>
+      {display:inline-block}
       <a href="{{ image.link }}">
         <img src="{{ image.image_path }}" alt="{{ image.title }}">
       </a>
