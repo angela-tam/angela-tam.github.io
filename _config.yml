@@ -53,6 +53,10 @@ permalink: pretty
 logo: "/assets/img/logo.png"
 avatarurl: "/assets/img/avatar.png"
 
+# site verification
+webmaster_verifications:
+  google: lB694ugK6e26p5fJs37qYbdvaozzE4dr219OLEdjgAI
+
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
