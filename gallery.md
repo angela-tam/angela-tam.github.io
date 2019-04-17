@@ -8,6 +8,6 @@ feature_image: "/assets/img/home_cover.jpg"
 
 {% include figure.html image="/assets/photos/bog_20180422.jpg" caption="The Bog in Montreal, Canada" %}
 
-{% include figure.html image="assets/photos/silhouette.jpg" caption=" " %}
+{% include figure.html image="assets/photos/silhouette.jpg" caption="Silhouettes" %}
 
 
