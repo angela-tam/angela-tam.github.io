@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rainbow bagel in NYC
+title: Rainbow bagel at Bread Brothers Bagel Cafe in Brooklyn, NY
 category: NYC
 feature_image: "/assets/img/bagels/cream_cheese.jpg"
 tags: bagel nyc
