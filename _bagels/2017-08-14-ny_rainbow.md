@@ -12,4 +12,6 @@ Disclosure: This is actually a belated post, so my memory is a bit fuzzy. While 
 
 Pictured is a rainbow bagel with jalapeno cream cheese from Bread Brothers Bagel Cafe in Brooklyn, NY. The rainbow bagel was quite sweet and kind of tasted like a cake. I almost felt like I was celebrating a birthday. I realize the pairing of a rainbow bagel and jalapeno cream cheese is a bit weird, but I guess I thought the spice from the jalapeno could cut the sweetness of the rainbow. If I was craving a dessert-like bagel, I would order a rainbow bagel again.
 
-I just want to add that I once ordered an everything bagel with olive cream cheese from Bread Brothers Bagel Cafe and it was the best bagel of my life. I often think about this bagel and I wonder if I will ever find another bagel that tastes as good.
+I just want to add that I once ordered an everything bagel with olive cream cheese from Bread Brothers Bagel Cafe and it was the best bagel of my life. I often think about this bagel and I wonder if I will ever find another bagel that tastes as good. I highly regret not having taken a photo of this particular bagel so that I could document its greatness in a proper post.
+
+Bread Brothers Bagel Cafe is a 5 out of 5 for me <3
