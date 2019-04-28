@@ -67,7 +67,7 @@ navigation_header:
   About: /about/
   Projects: /blog/
   Photos: /gallery/
-#   Bagels: /bagel/
+  Bagels: /bagels/
 
 # Footer nav
 # navigation_footer:
