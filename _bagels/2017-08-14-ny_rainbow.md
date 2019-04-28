@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Rainbow bagel in NYC
 category: NYC
 feature_image: "/assets/img/home_cover.jpg"
