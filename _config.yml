@@ -48,7 +48,7 @@ social: # jekyll-seo-tag > social overrides
 url: 'angela-tam.github.io'
 baseurl: ''
 title: 'Angela Tam'
-description: 'Website for neuroimaging researcher Angela Tam'
+description: ''
 permalink: pretty
 logo: "/assets/img/logo.png"
 avatarurl: "/assets/img/avatar.png"
@@ -67,7 +67,7 @@ navigation_header:
   About: /about/
   Projects: /blog/
   Photos: /gallery/
-  Bagels: /bagel/
+#   Bagels: /bagel/
 
 # Footer nav
 # navigation_footer:
