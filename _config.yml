@@ -59,7 +59,7 @@ webmaster_verifications:
 
 # Pagination
 paginate: 5
-paginate_path: blog/page:num
+# paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
@@ -67,7 +67,7 @@ navigation_header:
   About: /about/
   Projects: /blog/
   Photos: /gallery/
-  Bagels: /bagels/
+  Bagels: /bagel/
 
 # Footer nav
 # navigation_footer:
