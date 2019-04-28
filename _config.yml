@@ -67,6 +67,7 @@ navigation_header:
   About: /about/
   Projects: /blog/
   Photos: /gallery/
+  Bagels: /bagel/
 
 # Footer nav
 # navigation_footer:
@@ -97,6 +98,11 @@ collections:
     title: Photos
     output: true
     description: "Here are some of my photographs"
+    
+  bagels:
+    title: Bagels
+    output: true
+    description: "Here are some of my reviews about bagels"
 
 # defaults:
 #   -
