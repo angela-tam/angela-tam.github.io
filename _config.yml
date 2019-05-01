@@ -103,6 +103,7 @@ collections:
     title: Bagels
     output: true
     description: "Here are some of my reviews about bagels"
+    feature_image: "/assets/img/home_cover.jpg"
 
 # defaults:
 #   -
