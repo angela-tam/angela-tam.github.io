@@ -2,7 +2,7 @@
 layout: post
 title: Everything bagel (and more) from Schmear
 category: Singapore
-feature_image: "/assets/img/20191117_schmear_5.jpg"
+feature_image: "/assets/img/bagels/20191117_schmear_5.jpg"
 tags: bagel singapore
 ---
 
