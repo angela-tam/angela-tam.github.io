@@ -16,7 +16,7 @@ The crust was very crunchy. The inside layer of the bread was pretty soft and ch
 
 {% include figure.html image="/assets/img/bagels/20191117_schmear_2.jpg" %}
 
-I was a little sad that only the top of the bagel had any seasoning, as you can see from the picture above that I took of the bottom half of my bagl. As for the seasoning on the top side, I could see and taste sesame, onion, and garlic. I noticed poppy seeds were lacking, and it made me realize that I haven't seen any poppy bagels in Singapore. So the conspiracy theorist inside me did some Googling and it turns out that poppy seeds are banned in Singapore! So sad.
+I was a little sad that only the top of the bagel had any seasoning, as you can see from the picture above that I took of the bottom half of my bagel. As for the seasoning on the top side, I could see and taste sesame, onion, and garlic. I noticed poppy seeds were lacking, and it made me realize that I haven't seen any poppy bagels in Singapore. So the conspiracy theorist inside me did some Googling and it turns out that poppy seeds are banned in Singapore! So sad.
 
 Valeria ordered a bagel with lox, pictured below, which looked pretty tasty. Looking at this photo makes me slightly regret not getting lox on my bagel, but I didn't want any distractions to my tasting the bread (because I'm that pretentious). Valeria said that her bagel was very creamy, the salmon was fresh, herbs were a nice touch, and the bread was very filling.
 
