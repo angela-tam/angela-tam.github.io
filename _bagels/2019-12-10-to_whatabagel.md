@@ -20,5 +20,7 @@ I asked Ed what he thought about his bagels and he first stated that he liked Mo
 
 I would rate What A Bagel's everything bagel a 3 out of 5. It's a pretty good snack for 85 cents.
 
+Thanks to Ed for joining me on my first leg of my Canadian bagel tour and for reminding me to take pictures!
+
 
 
