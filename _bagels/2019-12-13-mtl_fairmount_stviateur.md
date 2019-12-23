@@ -12,7 +12,7 @@ Montreal is an amazing and magical place for bagels. I'm super excited to write 
 
 {% include figure.html image="/assets/img/bagels/20191213_stv.jpg" %}
 
-Here's a completely unscientific Twitter poll that for people's opinions about these bagel shops. I also took votes via Facebook and Instagram, which yielded surprisingly similar results. So that's why I've chosen to only show the Twitter poll results.
+Here's a completely unscientific Twitter poll for people's opinions about these bagel shops. I also took votes via Facebook and Instagram, which yielded surprisingly similar results. So that's why I've chosen to only show the Twitter poll results.
 
 {% include figure.html image="/assets/img/bagels/mtl_bagel_poll.png" %}
 
