@@ -6,7 +6,7 @@ feature_image: "/assets/img/bagel_cover.png"
 tags: bagel ottawa
 ---
 
-My friend Steph joined me at my first bagel stop in Ottawa was at Bagel Run in Orleans. Bagel Run offers Montreal style bagels from a woodburning oven. I ordered an everything bagel with herb and garlic cream cheese (pictured below), while Steph ordered a BLT bagel sandwich.
+My friend Steph joined me at my first bagel stop in Ottawa, Bagel Run in Orleans. Bagel Run offers Montreal style bagels from a woodburning oven. I ordered an everything bagel with herb and garlic cream cheese (pictured below), while Steph ordered a BLT bagel sandwich.
 
 {% include figure.html image="/assets/img/bagels/20191218_bagelrun_1.jpg" %}
 
