@@ -36,10 +36,11 @@ Our last bagel was a classic sesame bagel. We paired this bagel with an all dres
 
 <h3>Conclusion</h3>
 Here was our final ranking for these 4 bagels:
-1) Sesame
-2) Everything
-3) Pumpernickel
-4) Onion
+
+1. Sesame
+2. Everything
+3. Pumpernickel
+4. Onion
 
 Sesame was the best flavour and we felt that any bagel that didn't have any sesame could be better (or CBB, a technical term in Tanya's work in animation).
 
