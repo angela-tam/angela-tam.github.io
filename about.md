@@ -11,4 +11,5 @@ For a list of publications, check out my [Google Scholar](https://scholar.google
 
 ## Contact details
 Angela Tam, PhD<br/>
+[{% include icon.html id="email" title="email" %}](mailto:angela.tam@perceiv.ai)angela.tam/at/perceiv.ai<br/>
 [{% include icon.html id="twitter" title="twitter" %}](https://twitter.com/angelatamtweets/) [{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/angela-tam-2054813b/) [{% include icon.html id="github" title="github" %}](https://github.com/angela-tam) | [ResearchGate](https://www.researchgate.net/profile/Angela_Tam3) | [ORCiD](https://orcid.org/0000-0001-6752-5707) | [Publons](https://publons.com/researcher/317335/angela-tam/)
