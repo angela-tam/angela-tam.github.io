@@ -6,7 +6,7 @@ title: About me
 
 Currently, I'm a scientist at [Perceiv AI](https://perceiv.ai). I completed my PhD in neuroscience at McGill University in Montreal, Canada. My thesis focused on predicting Alzheimer's disease dementia from heterogeneous patterns of neurodegeneration and functional connectivity with structural and functional MRI. I was a postdoctoral research fellow at the National University of Singapore. My postdoc project aimed to predict cognitive abilities, psychiatric symptoms, and personality traits in children with functional MRI. I mainly code in Python and MATLAB/Octave, but I sometimes play with R and SQL. Aside from research, I enjoy listening to podcasts and live music, visiting art galleries, and befriending stray cats. I am also an amateur stop motion animator and video producer.
 
-You can view a copy of my cv [here](https://github.com/angela-tam/cv/blob/master/resume_angela_tam.pdf).<br/>
+You can view a copy of my cv [here](https://angela-tam.github.io/cv/).<br/>
 For a list of publications, check out my [Google Scholar](https://scholar.google.ca/citations?user=XExd2eQAAAAJ&hl=en).<br/>
 You can find my animation work on Instagram: [@octocurtis](https://www.instagram.com/octocurtis).
 
