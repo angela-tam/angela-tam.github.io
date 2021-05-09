@@ -65,6 +65,7 @@ paginate: 5
 navigation_header:
   Home: /
   About: /about/
+  CV: /cv/
   Projects: /blog/
 #   Photos: /gallery/
   Bagels: /bagel/
@@ -79,7 +80,6 @@ navigation_footer:
 #   Minimal Mistakes Theme: https://mmistakes.github.io
 
 contact:
-  email:      angela.tam08@gmail.com
   github:     https://github.com/angela-tam
   linkedin:   https://www.linkedin.com/in/angela-tam-2054813b/
   twitter:    https://twitter.com/angelatamtweets
