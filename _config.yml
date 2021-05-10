@@ -50,7 +50,7 @@ baseurl: ''
 title: 'Angela Tam'
 description: ''
 permalink: pretty
-logo: "/assets/img/logo.png"
+logo: "/assets/img/logo.svg"
 avatarurl: "/assets/img/avatar.png"
 
 # site verification
