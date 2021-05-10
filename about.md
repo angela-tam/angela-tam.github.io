@@ -12,10 +12,9 @@ You can find my animation work on Instagram: [@octocurtis](https://www.instagram
 
 ## Contact details
 Angela Tam, PhD<br/>
-[{% include icon.html id="email" title="email" %} angela.tam/at/perceiv.ai](mailto:angela.tam@perceiv.ai)<br/>
-[{% include icon.html id="twitter" title="twitter" %} Twitter](https://twitter.com/angelatamtweets/)<br/>
-[{% include icon.html id="linkedin" title="linkedin" %} LinkedIn](https://www.linkedin.com/in/angela-tam-2054813b/)<br/>
-[{% include icon.html id="github" title="github" %} GitHub](https://github.com/angela-tam)<br/>
-[ResearchGate](https://www.researchgate.net/profile/Angela_Tam3)<br/>
-[ORCiD](https://orcid.org/0000-0001-6752-5707)<br/>
-[Publons](https://publons.com/researcher/317335/angela-tam/)
+angela.tam / at / perceiv.ai
+
+<a href="https://www.twitter.com/angelatamtweets"><img src="https://raw.githubusercontent.com/angela-tam/angela-tam.github.io/873134dfd2eeab8d9c86d4e6b7c8e3c3b3795038/assets/icons/fontawesome/twitter-brands.svg" width="30" height="30"></a><a href="https://www.linkedin.com/in/angela-tam-2054813b/"><img src="https://raw.githubusercontent.com/angela-tam/angela-tam.github.io/873134dfd2eeab8d9c86d4e6b7c8e3c3b3795038/assets/icons/fontawesome/linkedin-brands.svg" width="30" height="30"></a><a href="https://github.com/angela-tam"><img src="https://raw.githubusercontent.com/angela-tam/angela-tam.github.io/0ac5ef0c366cf261a45ca5eda373b0f031260ccb/assets/icons/fontawesome/github-brands.svg" width="30" height="30"></a><a href="https://www.instagram.com/octocurtis"><img src="https://raw.githubusercontent.com/angela-tam/angela-tam.github.io/84c44ff4035d4ecb5df4b7a82e0c1ffc30b9b5eb/assets/icons/fontawesome/instagram-brands.svg" width="30" height="30"></a><a href="https://www.researchgate.net/profile/Angela_Tam3"><br/>
+<a href="https://scholar.google.ca/citations?user=XExd2eQAAAAJ&hl=en"><img src="https://raw.githubusercontent.com/angela-tam/angela-tam.github.io/873134dfd2eeab8d9c86d4e6b7c8e3c3b3795038/assets/icons/academicons-1.9.1/svg/google-scholar-square.svg" width="30" height="30"></a><a href="https://www.researchgate.net/profile/Angela_Tam3"><img src="https://raw.githubusercontent.com/angela-tam/angela-tam.github.io/0ac5ef0c366cf261a45ca5eda373b0f031260ccb/assets/icons/academicons-1.9.1/svg/researchgate.svg" width="30" height="30"></a><a href="https://orcid.org/0000-0001-6752-5707"><img src="https://raw.githubusercontent.com/angela-tam/angela-tam.github.io/0ac5ef0c366cf261a45ca5eda373b0f031260ccb/assets/icons/academicons-1.9.1/svg/orcid.svg" width="30" height="30"></a><a href="https://publons.com/researcher/317335/angela-tam/"><img src="https://raw.githubusercontent.com/angela-tam/angela-tam.github.io/0ac5ef0c366cf261a45ca5eda373b0f031260ccb/assets/icons/academicons-1.9.1/svg/publons.svg" width="30" height="30"></a>
+
+
