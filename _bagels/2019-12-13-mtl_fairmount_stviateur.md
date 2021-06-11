@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fairmount vs St-Viateur
+title: Sesame and all dressed bagels from Fairmount and St-Viateur
 category: Montreal
 feature_image: "/assets/img/bagels/mtl_bagels.jpg"
 tags: bagel montreal
