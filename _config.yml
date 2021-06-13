@@ -66,7 +66,7 @@ navigation_header:
   Home: /
   About: /about/
   CV: /cv/
-  Projects: /blog/
+  Research: /blog/
 #   Photos: /gallery/
   Bagels: /bagel/
 
@@ -87,9 +87,9 @@ contact:
 # Collections
 collections:
   posts:
-    title: Projects
+    title: Research
     output: true
-    description: "Here are some of my completed and ongoing projects"
+    description: "Here are some of my completed and ongoing research projects"
 #     feature_text: |
 #       Welcome to my blog
     feature_image: "/assets/img/home_cover.jpg"
